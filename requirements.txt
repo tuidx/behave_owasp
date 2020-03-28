@@ -1,0 +1,11 @@
+selenium
+requests
+unittest2
+behave
+allure-behave
+pyyaml
+pypdf2
+fpdf
+redis
+pyhamcrest
+python-owasp-zap-v2.4
